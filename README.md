@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/ph.linkedin.com/in/angelo-palpal-latoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ph.linkedin.com/in/angelo-palpal-latoc" height="30" width="40" /></a>
-<a href="https://fb.com/shelssss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shelssss" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/angelo-palpal-latoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ph.linkedin.com/in/angelo-palpal-latoc" height="30" width="40" /></a>
+<a href="https://fb.com/ShelooooooOO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shelssss" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shelsssspal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shelssss" height="30" width="40" /></a>
 </p>
 
