@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shelssss&label=Profile%20views&color=0e75b6&style=flat" alt="shelssss" /> </p>
 
-- 🔭 I’m currently working as a **Web Developer Student Intern**
+- 🔭 I’m currently working as a **Software Developer Student Intern**
 
 - 🌱 I’m currently learning **Laravel**
 
