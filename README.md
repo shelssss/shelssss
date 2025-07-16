@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Software Developer Student Intern at Infosoft Consulting Corporation**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Acumatica Cloud ERP**
 
 - 🤝 I’m looking for help with **more idea and concepts about API's**
 
